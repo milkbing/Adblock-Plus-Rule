@@ -36,7 +36,6 @@ jingyan.baidu.com##.wgt-cms-banner, .right-fixed-related-wrap, #bottom-ads-conta
 
 pan.baidu.com##.frame-all:style(overflow-x:hidden!important)
 pan.baidu.com##.ad-platform-tips, .phone-banner
-||bcebos.com^$image,domain=pan.baidu.com
 ||pan.baidu.com/rest/*/adx?$image
 zhidao.baidu.com###left-promotion,#ui-tooltip-0,div.cms-slide.cms-slide-optimus,div.wgt-bottom-ask,div.cms-slide.cms-slide-lazy
 ||s1.bdstatic.com/r/www/cache/biz/ecom/common/api/$script
